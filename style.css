@@ -25,3 +25,7 @@ th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-ali
 code{font-size:14px;overflow-wrap:anywhere}
 footer{margin-top:48px;border-top:1px solid var(--line);padding-top:14px;color:var(--muted);font-size:14px}
 img{max-width:100%;height:auto}
+.notice{background:var(--card);border:2px solid var(--accent);border-radius:10px;padding:12px 16px;margin:16px 0}
+.notice p{margin:6px 0}
+footer .api-note{color:var(--fg);font-size:15px;margin:0 0 6px}
+footer .links{margin:0 0 6px}
